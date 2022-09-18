@@ -1,0 +1,11 @@
+{
+  "name": "whatsthedate",
+  "version": "1.0.0",
+  "description": "Returns the date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kavinda \\ <admin@ksoftlabs.com\\> (https://ksoftlabs.com)",
+  "license": "ISC"
+}
